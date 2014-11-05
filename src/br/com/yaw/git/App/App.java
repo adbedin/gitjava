@@ -13,7 +13,7 @@ public class App {
     public static void main (String[] args){
         
         System.out.println("Utilizando o git através do NetBeans 8.0");
-        int n =30;
+        int n =300;
     }
     
 }
